@@ -1,0 +1,15 @@
+# Never commit these to a public writeup repo
+*.pcap
+*.kdbx
+*.ovpn
+*_creds*
+loot/
+scans/raw/
+.env
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
