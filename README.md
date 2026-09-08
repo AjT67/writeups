@@ -40,3 +40,4 @@ repo without appearing on the front page.
 
 The index also rebuilds automatically on push via GitHub Actions, so forgetting
 the command is not fatal.
+
