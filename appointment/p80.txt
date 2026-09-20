@@ -1,0 +1,9 @@
+# Nmap 7.99 scan initiated Sun Sep 20 13:50:36 2026 as: /usr/lib/nmap/nmap --privileged -sV -p 80 -oN /home/aji/writeups/appointment/p80.txt 10.129.222.126
+Nmap scan report for 10.129.222.126
+Host is up (0.35s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.38 ((Debian))
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Sep 20 13:50:47 2026 -- 1 IP address (1 host up) scanned in 10.97 seconds
